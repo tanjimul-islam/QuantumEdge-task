@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///F:/code/next/task/quantum-edge-task/app/page.js"],"sourcesContent":["\"use client\";\n\nexport default function Home() {\n  return (\n    <div className=\"flex flex-row items-center justify-center h-screen\">\n      <h1 className=\"text-3xl font-bold\">\n        {\" \"}\n        Home Page Content Will be Displayed Here\n      </h1>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;AAAA;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;YAAG,WAAU;;gBACX;gBAAI;;;;;;;;;;;;AAKb","debugId":null}}]
+}
